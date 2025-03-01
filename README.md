@@ -56,3 +56,5 @@ berpapasan.
 
 ## Screenshoot Flowchart
 ![Flowchart Soal 1](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/flowchart-soal-1.webp)
+
+![Flowchart Soal 2](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/flowchart-soal-2.webp)
