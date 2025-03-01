@@ -47,9 +47,12 @@ berpapasan.
 - Buka prompt/terminal lalu arahkan ke file `index.js` yang telah didownload sebelumnya
 - Lalu jalankan menggunakan Node (*version), dengan cara `node index.js`
 
-## Screenshoot
+## Screenshoot Program
 ![Halaman Utama](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/halaman-utama.png)
 
 ![Hasil Soal 1](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/hasil-soal-1.png)
 
 ![Hasil Soal 2](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/hasil-soal-2.png)
+
+## Screenshoot Flowchart
+![Flowchart Soal 1](https://github.com/renofinsa/perancangan-dan-analisis-algoritma-tugas-04/blob/main/images/flowchart-soal-1.webp)
